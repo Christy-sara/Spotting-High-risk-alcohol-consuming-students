@@ -2,6 +2,7 @@
 This project uses machine learning to predict students at high risk of alcohol consumption. A Multilayer Perceptron (MLP) neural network is implemented to classify and analyze high-risk students based on their academic and personal data.
 
 **Dataset:** Student Alcohol Consumption dataset from Kaggle, containing student demographics, study habits, and alcohol consumption data.
+Dataset link: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
 
 **Key Features:**
 - Data preprocessing and cleaning
