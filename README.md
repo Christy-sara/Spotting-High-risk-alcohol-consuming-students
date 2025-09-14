@@ -9,3 +9,7 @@ Dataset link: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/
 - Feature selection
 - Implementation of Multilayer Perceptron (MLP) for classification
 - Evaluation of model performance using accuracy and other metrics
+
+##  Files
+- `Spotting High-Risk Alcohol Consuming Students.ipynb` → Jupyter Notebook with code + explanations
+- `Spotting High-Risk Alcohol Consuming Students.html` → HTML version (for quick preview without Jupyter)
